@@ -55,7 +55,7 @@ const Projects = () => {
               <a className='text-blue-500 hover:text-blue-700' href='https://hitekorg.netlify.app/' target='_blank' rel='noreferrer'>https://hitekorg.netlify.app/</a>
               <a className='flex items-center gap-2 p-2 bg-black text-white hover:shadow-xl rounded-sm w-fit' href='https://github.com/DimitriosKimpaslis/HiTek' target='_blank' rel='noreferrer'>View Repository <AiOutlineGithub color='white' /></a>
               <p className='font-bold underline underline-offset-4 text-lg'>Introducing Hitek (High-Tech), a tech e-commerse site.</p>
-              <p className="text-gray-700">This e-commerce platform boasts a real-time <span className='font-bold'>inventory system</span>, ensuring items are marked unavailable instantly to streamline your shopping experience.
+              <p className="text-gray-700">The e-commerce platform boasts a real-time <span className='font-bold'>inventory system</span>, ensuring items are marked unavailable instantly to streamline your shopping experience.
 
                 Navigate effortlessly with a comprehensive <span className='font-bold'>filter system</span> to find precisely what you need, from the latest gadgets to must-have accessories. <span className='font-bold'>Powered by Stripe</span>, a well known payment process , guarantees security and efficiency.<br></br>
 
