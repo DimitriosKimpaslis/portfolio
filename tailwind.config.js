@@ -7,6 +7,7 @@ module.exports = {
     fontFamily: {
       assistant: ['Assistant', 'sans-serif'],
       monsterrat: ['Montserrat, sans-serif'],
+      spirax: ['Spirax', 'cursive'],
     },
   },
   plugins: [],

@@ -20,7 +20,7 @@ const Navigation = () => {
                 </div>
                 <div className='space-x-1 justify-center items-center hidden xl:flex hover:text-gray-400'>
                     <ImMail2 size={14}/>
-                    <a className=''>Contact</a>
+                    <a href='#contact'>Contact</a>
                 </div>
                 <div className='hidden xl:flex space-x-1 justify-center items-center hover:text-gray-400'>
                     <ImDownload2 />

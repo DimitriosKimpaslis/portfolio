@@ -12,6 +12,7 @@ function App() {
         <IntroContainer />
         <Projects />
         <Contact />
+        <div className="h-20 bg-white"></div>
       </div>
     </div>
   );
