@@ -36,7 +36,7 @@ const Contact = () => {
                             <FaFacebookMessenger />
                         </div>
                         <div className='flex justify-center gap-1'>
-                            <p>Tel: +30 6932992614</p>
+                            <p className='whitespace-nowrap'>Tel: +30 6932992614</p>
                             <FaPhoneAlt />
                         </div>
                     </div>

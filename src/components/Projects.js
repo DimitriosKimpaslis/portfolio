@@ -45,7 +45,7 @@ const Projects = () => {
       <p className="text-gray-700 font-assistant lg:text-left text-center">Some of the projects I have worked on:</p>
       <br></br>
       <div className='flex flex-col space-y-32 lg:space-y-16 font-assistant text-base'>
-        <div className='flex space-x-10  flex-wrap lg:flex-nowrap space-y-4'>
+        <div className='flex lg:space-x-2 flex-wrap lg:flex-nowrap space-y-4'>
           <div className='flex-1'>
             <img src={Hitek} alt="hitek" className="rounded-3xl w-full " />
           </div>
@@ -99,7 +99,7 @@ const Projects = () => {
             </div>
           </div>
         </div>
-        <div className='flex space-x-10 flex-wrap lg:flex-nowrap space-y-4'>
+        <div className='flex lg:space-x-2 flex-wrap lg:flex-nowrap space-y-4'>
           <div className='flex-1'>
             <img src={chitChat} alt="chit chat logo" className="rounded-3xl w-full " />
           </div>
@@ -178,7 +178,7 @@ const Projects = () => {
             </div>
           </div>
         </div>
-        <div className='flex space-x-10 flex-wrap lg:flex-nowrap space-y-4'>
+        <div className='flex lg:space-x-2 flex-wrap lg:flex-nowrap space-y-4'>
           <div className='flex-1'>
             <img src={visualTyping} alt="hitek" className="rounded-3xl w-full " />
           </div>
@@ -227,7 +227,7 @@ const Projects = () => {
             </div>
           </div>
         </div>
-        <div className='flex space-x-10 flex-wrap lg:flex-nowrap space-y-4'>
+        <div className='flex lg:space-x-2 flex-wrap lg:flex-nowrap space-y-4'>
           <div className='flex-1'>
             <img src={propagandast} alt="hitek" className="rounded-3xl w-full " />
           </div>
@@ -275,7 +275,7 @@ const Projects = () => {
             </div>
           </div>
         </div>
-        <div className='flex space-x-10 flex-wrap lg:flex-nowrap space-y-4'>
+        <div className='flex lg:space-x-2 flex-wrap lg:flex-nowrap space-y-4'>
           <div className='flex-1'>
             <img src={taskwhisper} alt="hitek" className="rounded-3xl w-full " />
           </div>
