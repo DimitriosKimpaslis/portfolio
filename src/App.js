@@ -14,7 +14,7 @@ function App() {
       setLoading(false)
       setTimeout(() => {
         document.body.style.overflow = "auto";
-      }, 1500)
+      }, 1000)
     }
     window.addEventListener('load', removeLoader)
     return () => window.removeEventListener('load', removeLoader)

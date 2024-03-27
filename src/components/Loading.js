@@ -5,7 +5,7 @@ const Loading = (props) => {
     const [hidden, setHidden] = useState(false)
     useEffect(() => {
         if (!loading) {
-            setTimeout(() => setHidden(true), 1500)
+            setTimeout(() => setHidden(true), 1000)
         }
     }, [loading])
 return (
