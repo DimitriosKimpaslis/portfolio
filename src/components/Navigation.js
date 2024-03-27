@@ -24,7 +24,7 @@ const Navigation = () => {
                 </div>
                 <div className='hidden xl:flex space-x-1 justify-center items-center hover:text-gray-400'>
                     <ImDownload2 />
-                    <a href='Dimitrios_Kimpaslis_CV.txt' download={'Dimitrios_Kimpaslis_CV.txt'}>Download CV</a>
+                    <a href='Dimitrios Kimpaslis CV.docx.pdf' download={'Dimitrios Kimpaslis CV.docx.pdf'}>Download CV</a>
                 </div>
 
             </div>

@@ -57,7 +57,7 @@ const Projects = () => {
               <p className='font-bold underline underline-offset-4 text-lg'>Introducing Hitek (High-Tech), a tech e-commerse site.</p>
               <p className="text-gray-700">The e-commerce platform boasts a real-time <span className='font-bold'>inventory system</span>, ensuring items are marked unavailable instantly to streamline your shopping experience.
 
-                Navigate effortlessly with a comprehensive <span className='font-bold'>filter system</span> to find precisely what you need, from the latest gadgets to must-have accessories. <span className='font-bold'>Powered by Stripe</span>, a well known payment process , guarantees security and efficiency.<br></br>
+                Navigate effortlessly with a comprehensive <span className='font-bold'>filter system</span> to find precisely what you need, from the latest gadgets to must-have accessories. <span className='font-bold'>Powered by Stripe</span>, a well known payment process ,it guarantees security and efficiency.<br></br>
 
                 Behind the scenes, integration with <span className='font-bold'>AWS Lambda</span> ensures swift responses to payment events, while the <span className='font-bold'>backend operates seamlessly on Supabase</span>'s free-tier plan.
               </p>
