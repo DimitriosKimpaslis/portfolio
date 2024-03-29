@@ -11,6 +11,7 @@ function App() {
 
   useEffect(() => {
     const removeLoader = () => {
+      console.log('loaded')
       setLoading(false)
       setTimeout(() => {
         document.body.style.overflow = "auto";
@@ -20,6 +21,11 @@ function App() {
     return () => window.removeEventListener('load', removeLoader)
   }
     , [])
+  
+  useEffect(() => {
+    console.log(loading)
+  }
+    , [loading])
   
   return (
     <div className="bg-blue-600 flex justify-center py-4 relative">
