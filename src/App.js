@@ -17,8 +17,9 @@ function App() {
         document.body.style.overflow = "auto";
       }, 1000)
     }
-    window.addEventListener('DOMContentLoaded', removeLoader)
-    return () => window.removeEventListener('DOMContentLoaded', removeLoader)
+    removeLoader()
+  //   window.addEventListener('load', removeLoader)
+  //   return () => window.removeEventListener('load', removeLoader)
   }
     , [])
   
